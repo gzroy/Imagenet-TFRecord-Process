@@ -15,7 +15,3 @@ The "bbox_preprocess.py" is used to parse the bbox xml files and write the resul
 The "tfrecord_process.py" is used to process the train dataset and validation dataset, you can specify how many CPU cores used to run in parellel. The program will tranfer every 1000 images into one tfrecord file. Which can greatly improve the later training and evaluating process.
 
 The "tfrecord_test.py" is used to test the tfrecord, it test if the images can be read from the tfrecord sucessfully.
-
-
-
-
