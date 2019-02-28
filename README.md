@@ -1,10 +1,14 @@
 # Imagenet-TFRecord-Process
 The codes for processing the Imagenet 2012 competetion dataset, transfer to the Tensorflow TFRecord that to ease the training and testing.
+
 The Imagenet dataset can be downloaded via below URLs:
+
 Train dataset:
 http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_train.tar
+
 Validation dataset:
 http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar
+
 Train dataset bounding box files:
 http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_bbox_train_v2.tar
 
